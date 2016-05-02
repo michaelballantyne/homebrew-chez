@@ -7,6 +7,6 @@ The main executable is installed as `chez`.
 ## Usage
 
 ```
-brew install michaelballantyne/homebrew-chez/chez-scheme
+brew install --HEAD michaelballantyne/homebrew-chez/chez-scheme
 ```
 
